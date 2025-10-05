@@ -11,3 +11,11 @@ def divide(a, b):
 def power(a, b):
     """Возведение в степень"""
     return a ** b
+    
+def add(a, b):
+    """Сложение двух чисел"""
+    return a + b
+
+def subtract(a, b):
+    """Вычитание двух чисел"""
+    return a - b
