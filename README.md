@@ -22,7 +22,7 @@
 
 1. **Скачайте проект:**
    ```bash
-   git clone https://github.com/your-username/team-calculator.git
+   git clone https://github.com/Vladislav12332145/team-calculator.git
    cd team-calculator
 2.Запустите калькулятор:
   python main.py
@@ -47,11 +47,4 @@ text
 8. Выход
 ========================================
 
-Установка для разработки
-Клонируйте репозиторий:
 
-git clone https://github.com/Vladislav12332145/team-calculator.git
-cd team-calculator
-Переключитесь на ветку develop:
-
-git checkout develop
